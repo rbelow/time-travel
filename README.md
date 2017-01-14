@@ -1,6 +1,6 @@
 # Time Travel
 
-A mobile first responsive website about time travel that uses normalize.css without framework.
+A mobile first responsive website without framework about time travel that uses normalize.css.
 
 **Mobile first:** http://www.lukew.com/ff/entry.asp?933=
 
