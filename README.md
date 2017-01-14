@@ -6,4 +6,4 @@ A mobile first responsive website about time travel that uses normalize.css with
 
 **Responsive design:** http://alistapart.com/article/responsive-web-design
 
-**Normalize:** https://necolas.github.io/normalize.css/
+**Normalize.css:** https://necolas.github.io/normalize.css/
